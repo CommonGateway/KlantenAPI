@@ -1,4 +1,4 @@
-# Pet Store API
+# Klanten API
 
 [![Automated Testing](https://github.com/CommonGateway/KlantenAPI/actions/workflows/tests.yml/badge.svg)](https://github.com/CommonGateway/KlantenAPI/actions/workflows/tests.yml)
 
