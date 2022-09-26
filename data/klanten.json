@@ -1,5 +1,5 @@
 {
-  "collection": "https://raw.githubusercontent.com/ConductionNL/klanten_publiccode/main/OAS.json",
+  "collection": "https://raw.githubusercontent.com/CommonGateway/KlantenAPI/main/OAS.yaml",
   "schemas": {
     "Klant": [
       {
