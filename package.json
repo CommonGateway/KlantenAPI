@@ -1,0 +1,7 @@
+{
+  "name": "@conductionnl/klanten-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpenAPI Specification voor de Klanten API",
+  "author": "Conduction B.V."
+}
